@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\orderuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\orderuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\dashboarduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\dashboarduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\orderuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\orderuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\admin\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\admin\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\admin\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\admin\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\newmemberuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\newmemberuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\newmemberuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\newmemberuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\orderuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\orderuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\cafe app\\user\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|g:\\my drive\\aiub study\\semester\u0027s\\spring 24\\final term\\oop-2 (c#)\\project file\\c# project\\cafe app\\cafe app\\user\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A55E98-4FC5-4937-AD27-F6299417303C}|Cafe App\\Cafe App.csproj|solutionrelative:cafe app\\user\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderList.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderList.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\OrderList.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderList.cs",
+              "RelativeToolTip": "Cafe App\\User\\OrderList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:24:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderList.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderList.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\OrderList.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderList.cs [Design]",
+              "RelativeToolTip": "Cafe App\\User\\OrderList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:24:49.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderUC.Designer.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderUC.Designer.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\OrderUC.Designer.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderUC.Designer.cs",
+              "RelativeToolTip": "Cafe App\\User\\OrderUC.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:07:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewMemberUC.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\NewMemberUC.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\NewMemberUC.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\NewMemberUC.cs",
+              "RelativeToolTip": "Cafe App\\User\\NewMemberUC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:55:02.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewMemberUC.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\NewMemberUC.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\NewMemberUC.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\NewMemberUC.cs [Design]",
+              "RelativeToolTip": "Cafe App\\User\\NewMemberUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:55:00.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfoUpdate.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Admin\\UserInfoUpdate.cs",
+              "RelativeDocumentMoniker": "Cafe App\\Admin\\UserInfoUpdate.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Admin\\UserInfoUpdate.cs [Design]",
+              "RelativeToolTip": "Cafe App\\Admin\\UserInfoUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:38:44.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Cafe App\\Data\\DataAccess.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Data\\DataAccess.cs",
+              "RelativeToolTip": "Cafe App\\Data\\DataAccess.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwCwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:54:59.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderUC.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderUC.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\OrderUC.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderUC.cs",
+              "RelativeToolTip": "Cafe App\\User\\OrderUC.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEEAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:19:41.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardUserForm.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\DashboardUserForm.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\DashboardUserForm.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\DashboardUserForm.cs [Design]",
+              "RelativeToolTip": "Cafe App\\User\\DashboardUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:17:21.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Program.cs",
+              "RelativeDocumentMoniker": "Cafe App\\Program.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Program.cs",
+              "RelativeToolTip": "Cafe App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:25:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderUC.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderUC.cs",
+              "RelativeDocumentMoniker": "Cafe App\\User\\OrderUC.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\User\\OrderUC.cs [Design]",
+              "RelativeToolTip": "Cafe App\\User\\OrderUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:12:28.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfoUpdate.cs",
+              "DocumentMoniker": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Admin\\UserInfoUpdate.cs",
+              "RelativeDocumentMoniker": "Cafe App\\Admin\\UserInfoUpdate.cs",
+              "ToolTip": "G:\\My Drive\\aiub study\\Semester\u0027s\\Spring 24\\Final term\\OOP-2 (C#)\\Project File\\C# project\\Cafe App\\Cafe App\\Admin\\UserInfoUpdate.cs",
+              "RelativeToolTip": "Cafe App\\Admin\\UserInfoUpdate.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:38:47.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

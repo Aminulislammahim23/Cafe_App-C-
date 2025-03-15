@@ -1,0 +1,87 @@
+C:\Users\aminu\source\repos\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+C:\Users\aminu\source\repos\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+C:\Users\aminu\source\repos\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardForm.resources
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+C:\Users\aminu\source\repos\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.SplashForm.resources
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+C:\Users\User\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.SplashForm.resources
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+C:\Users\aminu\Downloads\Cafe App\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+E:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+E:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+E:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+E:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\MetroFramework.Design.dll
+E:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\MetroFramework.dll
+E:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\MetroFramework.Fonts.dll
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageProducts.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.NoticeForm.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.UserInfoUpdate.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.SplashForm.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.NewMemberUC.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderList.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderUC.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.Up2Date
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.Customers.resources
+E:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageBill.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+D:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+D:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+D:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\MetroFramework.Design.dll
+D:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\MetroFramework.dll
+D:\Project CSharp\My Project\Cafe App\Cafe App\bin\Debug\MetroFramework.Fonts.dll
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.Customers.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageBill.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageProducts.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.NoticeForm.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.UserInfoUpdate.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.WelcomeForm.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.NewMemberUC.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderList.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderUC.resources
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.Up2Date
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
