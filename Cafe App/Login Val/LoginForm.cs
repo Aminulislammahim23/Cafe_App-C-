@@ -37,7 +37,7 @@ namespace Cafe_App.Login_Val
         private void LogInButton_Click(object sender, EventArgs e)
         {           
 
-            string sql = "select * from UserInfo where ID= '" + this.UserIdTxt.Text + "' and UPassword = '"+this.PasswordTxt.Text + "';";
+            string sql = "select * from InfoData where ID= '" + this.UserIdTxt.Text + "' and Password = '"+this.PasswordTxt.Text + "';";
             DataAccess da = new DataAccess();
             DataSet ds = da.ExecuteQuery(sql);
 
@@ -51,7 +51,7 @@ namespace Cafe_App.Login_Val
                     this.Hide();
                     new DashboardAdminForm(name, this).Show();
                 }
-                else if (ds.Tables[0].Rows[0][4].ToString() == "user")
+                else if (ds.Tables[0].Rows[0][4].ToString() == "seller")
                 {
                     this.Hide();
                     new DashboardUserForm(name, this).Show();

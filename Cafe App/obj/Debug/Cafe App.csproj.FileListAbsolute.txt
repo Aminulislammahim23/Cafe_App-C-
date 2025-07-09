@@ -85,3 +85,80 @@ D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCom
 D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.Up2Date
 D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.exe
 D:\Project CSharp\My Project\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+D:\Software Project\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+D:\Software Project\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+D:\Software Project\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+D:\Software Project\Cafe App\Cafe App\bin\Debug\MetroFramework.Design.dll
+D:\Software Project\Cafe App\Cafe App\bin\Debug\MetroFramework.dll
+D:\Software Project\Cafe App\Cafe App\bin\Debug\MetroFramework.Fonts.dll
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.Customers.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageBill.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageProducts.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.NoticeForm.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.UserInfoUpdate.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.WelcomeForm.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.NewMemberUC.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderList.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderUC.resources
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.Up2Date
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+D:\Software Project\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\bin\Debug\Cafe App.exe.config
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\bin\Debug\Cafe App.exe
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\bin\Debug\Cafe App.pdb
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\bin\Debug\MetroFramework.Design.dll
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\bin\Debug\MetroFramework.dll
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\bin\Debug\MetroFramework.Fonts.dll
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.exe.config
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.Customers.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageBill.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.ManageProducts.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.NoticeForm.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Admin.UserInfoUpdate.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.WelcomeForm.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.User.NewMemberUC.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderList.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe_App.User.OrderUC.resources
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.csproj.Up2Date
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.exe
+D:\develop software\Cafe App C# with db\Cafe App\Cafe App\obj\Debug\Cafe App.pdb
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\bin\Debug\Cafe App.exe.config
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\bin\Debug\Cafe App.exe
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\bin\Debug\Cafe App.pdb
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\bin\Debug\MetroFramework.Design.dll
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\bin\Debug\MetroFramework.dll
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\bin\Debug\MetroFramework.Fonts.dll
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.csproj.AssemblyReference.cache
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.exe.config
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Admin.Customers.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.DashboardAdminForm.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Admin.ManageBill.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Admin.ManageProducts.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Admin.NoticeForm.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Admin.UserInfoUpdate.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.WelcomeForm.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Login_Val.DashboardUserForm.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Login_Val.LoginForm.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.Properties.Resources.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.User.NewMemberUC.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.User.OrderList.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe_App.User.OrderUC.resources
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.csproj.GenerateResource.cache
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.csproj.CoreCompileInputs.cache
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.csproj.Up2Date
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.exe
+D:\GitHub Push files\C# projects\Cafe_App-C-\Cafe App\obj\Debug\Cafe App.pdb

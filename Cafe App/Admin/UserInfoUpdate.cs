@@ -25,7 +25,7 @@ namespace Cafe_App.Admin
             
         }
 
-        private void PopulateGridView(string sql = "select * from UserInfo")
+        private void PopulateGridView(string sql = "select * from InfoData")
         {
             DataSet ds = this.Da.ExecuteQuery(sql);
 
@@ -45,7 +45,7 @@ namespace Cafe_App.Admin
                     return;
                 }
 
-                var sql = "select * from UserInfo where ID = '" + this.txtID.Text + "';";
+                var sql = "select * from InfoData where ID = '" + this.txtID.Text + "';";
                 var ds = this.Da.ExecuteQuery(sql);
                 string query = null;
 
@@ -55,7 +55,7 @@ namespace Cafe_App.Admin
                 {
                     //Update
 
-                    query = "update UserInfo set UName = '" + this.txtName.Text + "',UPassword = " + this.txtPassword.Text + ",Phone = '" + this.txtPhone.Text + "',Role = '" + this.cbRole.SelectedItem + "' where ID = '" + this.txtID.Text + "';";
+                    query = "update InfoData set Name = '" + this.txtName.Text + "',Password = " + this.txtPassword.Text + ",Phone = '" + this.txtPhone.Text + "',Role = '" + this.cbRole.SelectedItem + "' where ID = '" + this.txtID.Text + "';";
                     var count = this.Da.ExecuteDMLQuery(query);
                     if (count == 1)
                         MessageBox.Show("Data Updated Successfully");
@@ -66,7 +66,7 @@ namespace Cafe_App.Admin
                 {
                     //Insert
 
-                    query = "insert into UserInfo values('" + this.txtID.Text + "','" + this.txtName.Text + "'," + this.txtPassword.Text + ",'" + this.txtPhone.Text + "','" + this.cbRole.SelectedItem + "')";
+                    query = "insert into InfoData values('" + this.txtID.Text + "','" + this.txtName.Text + "'," + this.txtPassword.Text + ",'" + this.txtPhone.Text + "','" + this.cbRole.SelectedItem + "')";
                     var count = this.Da.ExecuteDMLQuery(query);
                     if (count == 1)
                         MessageBox.Show("Data Added Successfully");
@@ -104,7 +104,7 @@ namespace Cafe_App.Admin
 
 
                 var uid = this.dgvShowInfo.CurrentRow.Cells["ID"].Value.ToString();
-                var query = "delete from UserInfo where ID = '" + uid + "'";
+                var query = "delete from InfoData where ID = '" + uid + "'";
                 var count = this.Da.ExecuteDMLQuery(query);
 
                 if (count > 0)
@@ -129,8 +129,8 @@ namespace Cafe_App.Admin
         private void dataGridView1_DoubleClick(object sender, EventArgs e)
         {
             this.txtID.Text = this.dgvShowInfo.CurrentRow.Cells["ID"].Value.ToString();
-            this.txtName.Text = this.dgvShowInfo.CurrentRow.Cells["UName"].Value.ToString();
-            this.txtPassword.Text = this.dgvShowInfo.CurrentRow.Cells["UPassword"].Value.ToString();
+            this.txtName.Text = this.dgvShowInfo.CurrentRow.Cells["Name"].Value.ToString();
+            this.txtPassword.Text = this.dgvShowInfo.CurrentRow.Cells["Password"].Value.ToString();
             this.txtPhone.Text = this.dgvShowInfo.CurrentRow.Cells["Phone"].Value.ToString();
             this.cbRole.SelectedItem = this.dgvShowInfo.CurrentRow.Cells["Role"].Value.ToString();
 
@@ -138,7 +138,7 @@ namespace Cafe_App.Admin
 
         private void AutoIdGenerate()
         {
-                var sql = "SELECT ID FROM UserInfo ORDER BY ID DESC;";
+                var sql = "SELECT ID FROM InfoData ORDER BY ID DESC;";
                 var dt = this.Da.ExecuteQueryTable(sql);
                 var oldId = dt.Rows[0][0].ToString();
                 string[] temp = oldId.Split('-');
@@ -175,7 +175,7 @@ namespace Cafe_App.Admin
 
         private void searchButton_Click(object sender, EventArgs e)
         {
-            var sql = "select * from UserInfo where ID = '" + this.txtSearch.Text + "' or Role = '"+this.txtSearch.Text+"' or UName = '"+this.txtSearch.Text+"';";
+            var sql = "select * from InfoData where ID = '" + this.txtSearch.Text + "' or Role = '"+this.txtSearch.Text+"' or Name = '"+this.txtSearch.Text+"';";
             this.PopulateGridView(sql);
 
         }
@@ -197,7 +197,7 @@ namespace Cafe_App.Admin
 
         private void searchTxt_TextChanged(object sender, EventArgs e)
         {
-            var sql = "select* from UserInfo where UName like '" + this.txtSearch.Text + "%';";
+            var sql = "select* from InfoData where Name like '" + this.txtSearch.Text + "%';";
         }
 
         private bool IsValidToSave()

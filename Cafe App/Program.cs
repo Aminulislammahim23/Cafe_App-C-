@@ -18,7 +18,7 @@ namespace Cafe_App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DashboardUserForm());
+            Application.Run(new WelcomeForm());
         }
     }
 }

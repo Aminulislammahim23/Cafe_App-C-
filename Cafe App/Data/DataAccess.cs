@@ -42,7 +42,7 @@ namespace WFADBG
 
         public DataAccess()
         {
-            this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-GG1F7H5\SQLEXPRESS;Initial Catalog=AiubCafeDB;User ID=sa;Password=Asd552299;");
+            this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-C1764NV\SQLEXPRESS;Initial Catalog=CafeDB;User ID=sa;Password=552299;");
             Sqlcon.Open();
         }
 
